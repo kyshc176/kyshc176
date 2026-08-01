@@ -21,10 +21,6 @@ Python • SQL • Power BI • Pandas • NumPy • Scikit-learn • Git
 
 A predictive analytics project using Logistic Regression and Polynomial Features to classify stunting cases on toddler anthropometric data.
 
-**Model Performance**
-- Accuracy: 96%
-- ROC-AUC: 0.97
-- PR-AUC: 0.64
 
 ## 🌱 Currently Learning
 
