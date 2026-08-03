@@ -2,7 +2,7 @@
 
 🎓 Information Systems Fresh Graduate from Universitas Mercu Buana
 
-💡 Passionate about Data Analytics, Machine Learning, and Artificial Intelligence.
+💡 Passionate about Data Analytics, Machine Learning, and Data Engineer.
 
 ## 🚀 About Me
 
