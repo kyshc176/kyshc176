@@ -24,7 +24,7 @@ A predictive analytics project using Logistic Regression and Polynomial Features
 
 ## 🌱 Currently Learning
 
-- Power BI
+- Tableu
 - Advanced SQL
 - Model Deployment
 
