@@ -13,7 +13,7 @@
 
 ## 🛠 Tech Stack
 
-Python • SQL • Power BI • Pandas • NumPy • Scikit-learn • Git
+Python • SQL  • Pandas • NumPy • Scikit-learn • Git
 
 ## 📂 Featured Project
 
